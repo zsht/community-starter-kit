@@ -1,4 +1,5 @@
 # Getting Started Guide
+dd
 
 This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
 
@@ -35,4 +36,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+this is fine 
